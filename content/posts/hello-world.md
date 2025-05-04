@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
-date: 2025-05-04T20:45:00+09:00
+date: 2025-05-04
 draft: false
+tags: ["블로그", "첫글"]
+categories: ["공지"]
 ---
-
-hello world~~
