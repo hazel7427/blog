@@ -1,6 +1,5 @@
 [build]
-  publish = "public"
   command = "hugo --baseURL $URL"
 
 [context.production.environment]
-  HUGO_VERSION = "0.115.0"
+  HUGO_VERSION = "0.146.0"
